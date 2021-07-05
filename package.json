@@ -1,0 +1,27 @@
+{
+  "name": "rocketq-nlwtogether",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <img alt=\"Rocket.Q\" title=\"Rocket.Q\" src=\".github/rocketq.png\" width=\"220px\" /> </h1>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbueno/rocketQ-nlwTogether.git"
+  },
+  "keywords": [],
+  "author": "Allan B Bueno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbueno/rocketQ-nlwTogether/issues"
+  },
+  "homepage": "https://github.com/abbueno/rocketQ-nlwTogether#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
